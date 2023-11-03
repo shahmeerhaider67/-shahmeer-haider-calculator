@@ -1,4 +1,4 @@
-Hello this is me Shahmeer Haider and this is my Calculator Porject :)
+Hello this is me Shahmeer Haider and this is my Calculator Project :)
 
 Commands used in it :
 1. npm init -y
